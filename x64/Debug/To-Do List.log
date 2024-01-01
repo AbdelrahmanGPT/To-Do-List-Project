@@ -1,0 +1,3 @@
+﻿  To-Do List.cpp
+C:\Users\AAMY\source\repos\To-Do List\To-Do List.cpp(81,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  To-Do List.vcxproj -> C:\Users\AAMY\source\repos\To-Do List\x64\Debug\To-Do List.exe
