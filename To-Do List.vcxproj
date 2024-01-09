@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="To-Do List.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ABODAstd.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

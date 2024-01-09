@@ -1,3 +1,20 @@
 ﻿  To-Do List.cpp
-C:\Users\AAMY\source\repos\To-Do List\To-Do List.cpp(81,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\AAMY\source\repos\To-Do List\ABODAstd.h(50,23): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+C:\Users\AAMY\source\repos\To-Do List\ABODAstd.h(62,23): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+C:\Users\AAMY\source\repos\To-Do List\ABODAstd.h(81,33): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+C:\Users\AAMY\source\repos\To-Do List\ABODAstd.h(105,33): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+C:\Users\AAMY\source\repos\To-Do List\ABODAstd.h(243,23): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+C:\Users\AAMY\source\repos\To-Do List\To-Do List.cpp(14,31): warning C4244: 'return': conversion from 'long double' to 'int', possible loss of data
+C:\Users\AAMY\source\repos\To-Do List\To-Do List.cpp(58,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\AAMY\source\repos\To-Do List\To-Do List.cpp(77,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
   To-Do List.vcxproj -> C:\Users\AAMY\source\repos\To-Do List\x64\Debug\To-Do List.exe
