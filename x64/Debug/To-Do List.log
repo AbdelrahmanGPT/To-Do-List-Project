@@ -1,20 +1,108 @@
 ﻿  To-Do List.cpp
-C:\Users\AAMY\source\repos\To-Do List\ABODAstd.h(50,23): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+D:\source\repos\To-Do List\ABODAstd.h(164,31): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
   (compiling source file 'To-Do%20List.cpp')
   
-C:\Users\AAMY\source\repos\To-Do List\ABODAstd.h(62,23): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+D:\source\repos\To-Do List\ABODAstd.h(174,31): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
   (compiling source file 'To-Do%20List.cpp')
   
-C:\Users\AAMY\source\repos\To-Do List\ABODAstd.h(81,33): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+D:\source\repos\To-Do List\ABODAstd.h(184,31): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
   (compiling source file 'To-Do%20List.cpp')
   
-C:\Users\AAMY\source\repos\To-Do List\ABODAstd.h(105,33): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+D:\source\repos\To-Do List\ABODAstd.h(262,10): warning C4244: 'return': conversion from 'long double' to '__int64', possible loss of data
   (compiling source file 'To-Do%20List.cpp')
   
-C:\Users\AAMY\source\repos\To-Do List\ABODAstd.h(243,23): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+D:\source\repos\To-Do List\ABODAstd.h(270,23): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
   (compiling source file 'To-Do%20List.cpp')
   
-C:\Users\AAMY\source\repos\To-Do List\To-Do List.cpp(14,31): warning C4244: 'return': conversion from 'long double' to 'int', possible loss of data
-C:\Users\AAMY\source\repos\To-Do List\To-Do List.cpp(58,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\AAMY\source\repos\To-Do List\To-Do List.cpp(77,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-  To-Do List.vcxproj -> C:\Users\AAMY\source\repos\To-Do List\x64\Debug\To-Do List.exe
+D:\source\repos\To-Do List\ABODAstd.h(282,23): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\ABODAstd.h(374,23): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\ABODAstd.h(386,23): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\ABODAstd.h(412,23): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\ABODAstd.h(502,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\ABODAstd.h(526,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\ABODAstd.h(542,25): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\ABODAstd.h(616,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\ABODAstd.h(617,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\ABODAstd.h(626,30): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\ABODAstd.h(639,30): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\ABODAstd.h(1442,24): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\ABODAstd.h(1481,42): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\ABODAstd.h(1508,42): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\ABODAstd.h(1543,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\ABODAstd.h(1587,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\ABODAstd.h(1625,45): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\ABODAstd.h(1891,12): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\ABODAstd.h(1903,17): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\ABODAstd.h(1974,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+  (compiling source file 'To-Do%20List.cpp')
+  D:\source\repos\To-Do List\ABODAstd.h(1974,10):
+  consider using '%lld' in the format string
+  D:\source\repos\To-Do List\ABODAstd.h(1974,10):
+  consider using '%Id' in the format string
+  D:\source\repos\To-Do List\ABODAstd.h(1974,10):
+  consider using '%I64d' in the format string
+  
+D:\source\repos\To-Do List\ABODAstd.h(2056,16): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\ABODAstd.h(2163,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type '__int64'
+  (compiling source file 'To-Do%20List.cpp')
+  D:\source\repos\To-Do List\ABODAstd.h(2163,11):
+  consider using '%lld' in the format string
+  D:\source\repos\To-Do List\ABODAstd.h(2163,11):
+  consider using '%Id' in the format string
+  D:\source\repos\To-Do List\ABODAstd.h(2163,11):
+  consider using '%I64d' in the format string
+  
+D:\source\repos\To-Do List\ABODAstd.h(2179,33): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\ABODAstd.h(2180,38): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\ABODAstd.h(2527,44): warning C4244: 'return': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'To-Do%20List.cpp')
+  
+D:\source\repos\To-Do List\To-Do List.cpp(28,31): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\source\repos\To-Do List\To-Do List.cpp(128,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\source\repos\To-Do List\To-Do List.cpp(155,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  To-Do List.vcxproj -> D:\source\repos\To-Do List\x64\Debug\To-Do List.exe
