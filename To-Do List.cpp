@@ -102,10 +102,12 @@ void PerformEditTaskMenuChoice(EditTaskMenuChoices EditTaskMenuChoice , int Task
 	{
 	case EditTitle:
 		TasksMenu[TaskNumber - 1].Title = ReadStringLine("ENTER NEW TASK TITLE");
+		SaveTasksDataToFile(TasksMenu);
 		printf("\nYOUR TASK TITLE IS EDITTED SUCCESSFULLY\n");
 		break;
 	case EditDescription:
 		TasksMenu[TaskNumber - 1].Description = ReadStringLine("ENTER NEW TASK DESCRIPTION");
+		SaveTasksDataToFile(TasksMenu);
 		printf("\nYOUR TASK DESCRIPTION IS EDITTED SUCCESSFULLY\n");
 		break;
 	}
@@ -132,6 +134,7 @@ void EditTask(vector<Task>& TasksMenu)
 				PrintEditTaskMenu();
 				EditTaskMenuChoices EditTaskMenuChoice = ReadEditTaskMenuChoices();
 				PerformEditTaskMenuChoice(EditTaskMenuChoice, TaskNumber , TasksMenu);
+				SaveTasksDataToFile(TasksMenu);
 			} while (DoYouWantToDoThisWithoutClear("DO YOU WANT TO EDIT ANOTHER INFORMATION ABOUT THIS TASK"));
 			
 			SaveTasksDataToFile(TasksMenu);
